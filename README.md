@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **minhajalamdp28@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/drive/u/0/my-drive
+- 📄 Know about my experiences https://drive.google.com/file/d/1q5zhgnq6Ni98NHcEtGy6yW3F0ipCW7OO/view?usp=drive_link
 - ⚡ Fun fact **Code can't be lie but comment can**
 
 <h3 align="left">Connect with me:</h3>
