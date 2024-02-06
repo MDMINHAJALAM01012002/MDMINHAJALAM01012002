@@ -9,9 +9,9 @@
 <img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-M9VL2z6t7gCsJg2lnQU_-_aMiTLWMuuqw&usqp=CAU">
 
 
-- 🔭 I’m currently working on **Attendance Management System**
+- 🔭 I’m currently working on **Chatbot with NLP**
 
-- 🌱 I’m currently learning **php,node js**
+- 🌱 I’m currently learning **React js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MDMINHAJALAM01012002/My_portfolio12002/My_portfolio](https://github.com/MDMINHAJALAM01012002/My_portfolio12002/My_portfolio)
 
@@ -19,8 +19,7 @@
 
 - 📫 How to reach me **minhajalamdp28@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1gj6oINWXrJzhTGkH96BWQNA1mxpbBKtM/view?usp=drivesdk
-
+- 📄 Know about my experiences https://drive.google.com/drive/u/0/my-drive
 - ⚡ Fun fact **Code can't be lie but comment can**
 
 <h3 align="left">Connect with me:</h3>
